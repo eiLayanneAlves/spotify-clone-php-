@@ -1,0 +1,10 @@
+spotify-clone-php/
+│
+├── index.php
+├── login.php
+├── register.php
+├── logout.php
+├── config.php
+├── dashboard.php
+├── style.css
+└── database.sql
